@@ -19,3 +19,4 @@ x = int(input('Enter value of x'))
 y = int(input('Enter value of y'))
 operation = input('Enter the operation to perform')
 calculate(operation,x,y)
+print ('Just to add the functionality');
